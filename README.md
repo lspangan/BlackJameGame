@@ -1,2 +1,2 @@
-# BlackJameGame
+# BlackJackGame
 Black Jack Java program
